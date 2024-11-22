@@ -1,4 +1,4 @@
-# AG_TV_2_STRM
+# AGTV2STRM
 
 Convert Apollo Group TV M3U lists to STRM files,
 Extracts media (TV Show / Movie) details (Title, release date) from The Movie DB (TMDB).
